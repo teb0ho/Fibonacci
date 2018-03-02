@@ -21,5 +21,6 @@ def fib(n):
 
         return final_output
 
-fib_length = int(raw_input('Enter the length you want for your fibonacci sequence? '))
-print fib(fib_length) 
+print "Enter the length you want for your Fibonacci sequence "
+fib_length = int(raw_input('> '))
+print fib(fib_length)
