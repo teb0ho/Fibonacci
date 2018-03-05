@@ -1,4 +1,4 @@
-# Fibonacci :smile: :smiley: :smirk: :wink:
+# Fibonacci :smile: :smiley: :smirk: :wink: :pager:
 This is my first attempt to try and write a Fibonacci application in the simplest way possible, without looking at the Fibonacci code on
 the [python.org](http://www.python.org) landing page. 
 
